@@ -1,11 +1,11 @@
 {
-  "name": "ryokatsuse",
+  "name": "bebop-css",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ryokatsuse <ryokatsu0719@gmail.com> (https://www.npmjs.com/~ryokatsuse)",
+  "author": "Ryo Katsuse <ryokatsu0719@gmail.com> (https://www.npmjs.com/~ryokatsuse)",
   "license": "ISC"
 }
