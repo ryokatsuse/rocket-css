@@ -6,6 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ryo Katsuse <ryokatsu0719@gmail.com> (https://www.npmjs.com/~ryokatsuse)",
+  "author": "ryokatsuse <ryokatsu0719@gmail.com> (https://www.npmjs.com/~ryokatsuse)",
   "license": "ISC"
 }
